@@ -285,7 +285,7 @@ mininet> iperf h1 h2
 
 Shows bandwidth measurement between h1 and h2 in Gbits/sec.
 
-![iperf Result](screenshots/14_iperf_result.png)
+![iperf Result](screenshots/14_iperf_result.jpeg)
 
 ---
 
